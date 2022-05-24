@@ -1,0 +1,17 @@
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\bin\Debug\PROJE ÖDEV.exe.config
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\bin\Debug\PROJE ÖDEV.exe
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\bin\Debug\PROJE ÖDEV.pdb
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\bin\Debug\EntityFramework.dll
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\bin\Debug\EntityFramework.xml
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE ÖDEV.csproj.AssemblyReference.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE_ÖDEV.Form1.resources
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE_ÖDEV.Properties.Resources.resources
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE ÖDEV.csproj.GenerateResource.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE ÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE ÖDEV.csproj.CopyComplete
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE ÖDEV.exe
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE ÖDEV.pdb
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE_ÖDEV.Ana_form.resources
+C:\Users\Bayram İmran Küçük\Desktop\C#\PROJE ÖDEV\PROJE ÖDEV\obj\Debug\PROJE_ÖDEV.frm_urun.resources
